@@ -234,9 +234,71 @@ it was calculated through summation of the record in the revenue column across a
 
 ```Total Revenue = sum(SalesTable[Revenue])```
 
-![](Total revenue.jpg)
+![](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD/blob/main/Total%20revenue.jpg)
+
+The total revenue generated from each branch/city in this supermarket dataset is crucial because it provides key business insights, such as:
+
+1. Performance Analysis
+
+Identify Top-Performing Branches: 
+ 
+  - Which branch generates the most revenue?  
+  
+  - Helps focus investments on high-performing locations.  
+  
+  Spot Underperforming Branches: 
+ 
+  - Recognize branches struggling to meet revenue targets.  
+  
+  - Inform decisions on resource allocation or strategy adjustments.  
+
+ 2. Resource Allocation
+
+    Staffing Decisions:
+ 
+  - Higher revenue may indicate higher foot traffic, requiring more staff.  
+ 
+  - Helps in planning shifts and labor costs.  
+
+Inventory Management:
+
+  - High-revenue branches need faster stock replenishment.  
+ 
+  - Prevents stockouts or overstocking.  
+
+3. Marketing Strategy
+
+Targeted Promotions:
+  
+  - Branches with lower revenue might benefit from more promotions or discounts.  
+  
+  - High-revenue branches could try premium pricing or loyalty programs.  
 
 
+4. Business Growth and Expansion**  
+
+Location Insights:
+  
+  - Data shows which Branch/city are more profitable.  
+  
+  - Helps in deciding where to open new stores.  
+
+
+5. Profitability Analysis
+     
+- Revenue alone doesn’t equal profit, but it is a starting point.  
+
+- Combine it with **Cost of Goods Sold (COGS)** to measure **Gross Profit**.  
+
+- High revenue with low profit indicates high expenses.  
+
+
+**Bottom Line:**  
+Total revenue by branch/city is a key performance indicator (KPI) that helps in:  
+- **Strategic Decision-Making**  
+- **Improving Operations**  
+- **Maximizing Profitability**  
+![](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD/blob/main/Revenue%20gen%20from%20Yangon%20branch.jpg), ![](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD/blob/main/Revenue%20gen%20from%20napyitaw%20branch.jpg), ![](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD/blob/main/revenue%20gen%20from%20mandalay.jpg)
 
 
 
