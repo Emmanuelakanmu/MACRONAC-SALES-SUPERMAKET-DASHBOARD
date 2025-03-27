@@ -234,6 +234,8 @@ it was calculated through summation of the record in the revenue column across a
 
 ```Total Revenue = sum(SalesTable[Revenue])```
 
+![](Total revenue.jpg)
+
 
 
 
