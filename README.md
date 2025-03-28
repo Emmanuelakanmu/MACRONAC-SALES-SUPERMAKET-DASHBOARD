@@ -13,29 +13,30 @@ This project not only revealed business-critical insights but also demonstrated 
 
 #  Table of Contents
 
-Project Overview
+[Project Overview](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#project-overview)
 
-Project Scope
+[Project Scope](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#project-scope)
 
-Project Objectives
+[Project Objectives](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#project-objectives)
 
-Expected Outcome
+[Expected Outcome](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#expected-outcome)
 
-Document Purpose
+[Document Purpose](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#document-purpose)
 
-Use Case
+[Use Case](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#use-case)
 
-Data Source
+[Data Source](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#data-source)
 
-Data Cleaning and Processing
+[Data Cleaning and Processing](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#data-cleaning-and-processing)
 
-Data Analysis
+[Data Analysis and Insights](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#data-analysis-and-insights)
 
-Data Visualization
+[Data Visualization](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#data-analysis-and-insights)
 
-Recommendation
+[Recommendation](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD#recommendation)
 
-Conclusion
+[Conclusion](https://github.com/Emmanuelakanmu/MACRONAC-SALES-SUPERMAKET-DASHBOARD/edit/main/README.md#conclusion)
+
 
 # Project Overview
 The process began with data cleaning in Excel, where inconsistencies were addressed, missing values were handled, and the dataset was prepared for meaningful analysis.
@@ -136,7 +137,7 @@ This analysis can help retail businesses enhance operational efficiency, optimiz
 
 # Data Source
 
-The data used in this project was sourced from a Kaggle website, containing detailed transaction records from multiple branches. The dataset includes key variables essential for analyzing business performance, customer behavior, and product profitability.
+The data used in this project was sourced from a Kaggle [website](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales), containing detailed transaction records from multiple branches. The dataset includes key variables essential for analyzing business performance, customer behavior, and product profitability.
 
 Key Data Attributes:
 
@@ -711,6 +712,32 @@ Based on the analysis of various metrics including total sales, profit, customer
 - Schedule **monthly performance reviews** and adapt strategies based on data trends.  
 
 
+## Conclusion
+  
+
+Based on the detailed analysis of sales, profit, customer satisfaction, payment methods, and branch performance, it is evident that the business demonstrates steady growth with notable strengths in **branch profitability** and **diverse payment adoption**. However, certain fluctuations in **monthly profits**, **day-wise sales**, and **product satisfaction** indicate areas requiring targeted improvement.
+
+Key takeaways include:  
+
+- **Monday** consistently outperforms other days in sales, suggesting an opportunity to replicate this success on slower days like **Friday**.  
+
+**Naypyitaw** stands out as the highest revenue-generating branch, though better cost management could improve net profits.  
+
+- The near-equal distribution of payment methods reflects a well-balanced customer preference, yet strategic incentives can encourage further adoption of underutilized modes.  
+
+- **Fashion accessories** and **electronics** received the highest customer satisfaction, while other categories could benefit from enhanced quality or promotional offers.  
+
+To sustain long-term growth, the business must leverage its strengths while addressing identified gaps through **cost optimization**, **promotional campaigns**, and 
+**customer engagement initiatives**. Continuous monitoring and **data-driven decision-making** will be crucial in maintaining a competitive edge.  
+
+Thank you for reading
+
+I am Emmanuel Akanmu, I’m interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
+
+You can reach me on akanmuemmanuel@gmail.com
+
+
+# THANK YOU
 
 
 
